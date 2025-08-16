@@ -1,11 +1,12 @@
-🎬 YourNextMovie
+<h1>🎬 YourNextMovie </h1>
+
 Discover movies you'll enjoy without the hassle. YourNextMovie is a sleek and modern React + Vite web app that lets you search and explore movies using the TMDB API, all wrapped in a clean and responsive UI built with Tailwind CSS.
 
 <h2>📸 Preview</h2>
-<h2>📸 Preview</h2>
-<img src="public\preview.png" alt="App Preview" width="600">
+<img src="public\preview.png" alt="App Preview" width="1000">
 
-✨ Features
+<h2>✨ Features </h2>
+
 🔍 Real-time Search: Instantly find movies as you type.
 
 🎨 Clean & Responsive UI: A beautiful and intuitive interface built with Tailwind CSS that looks great on any device.
@@ -14,7 +15,9 @@ Discover movies you'll enjoy without the hassle. YourNextMovie is a sleek and mo
 
 🎥 Powered by TMDB: Access a massive database of movies, posters, and ratings.
 
-🚀 Tech Stack
+
+<h2> 🚀 Tech Stack </h2>
+
 React 19 - A JavaScript library for building user interfaces.
 
 Vite - Next-generation front-end tooling.
