@@ -18,10 +18,10 @@ Discover movies you'll enjoy without the hassle. YourNextMovie is a sleek and mo
 
 <h2> 🚀 Tech Stack </h2>
 
-React 19 - A JavaScript library for building user interfaces.
+React 19: A JavaScript library for building user interfaces.
 
-Vite - Next-generation front-end tooling.
+Vite: Next-generation front-end tooling.
 
-Tailwind CSS 4 - A utility-first CSS framework.
+Tailwind CSS 4: A utility-first CSS framework.
 
-TMDB API - The Movie Database API.
+TMDB API: The Movie Database API.
