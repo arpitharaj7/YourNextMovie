@@ -57,7 +57,7 @@
     @apply px-5 py-12 xs:p-10 max-w-7xl mx-auto flex flex-col relative z-10;
   }
 
-  .trending {
+  .trending-movies {
     @apply mt-20;
 
     & ul {
@@ -76,14 +76,11 @@
       @apply w-[127px] h-[163px] rounded-lg object-cover -ml-3.5;
     }
   }
-
   .search {
-    @apply w-full bg-light-100/5 px-4 py-3 rounded-lg mt-10 max-w-3xl mx-auto;
-
+    @apply w-full bg-light-100/5 py-3 pr-4 pl-8 rounded-full mt-2 max-w-3xl mx-auto;
     & div {
       @apply relative flex items-center;
     }
-
     & img {
       @apply absolute left-2 h-5 w-5;
     }
